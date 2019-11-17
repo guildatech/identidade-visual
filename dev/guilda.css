@@ -1,3 +1,6 @@
 :root {
---guildatech-amarelo: #e9b625
-}
+        --guildatech-color-primary: #e9b625;
+        --guildatech-color-green: #25e935;
+        --guildatech-color-green-darker: #1BC12A;
+        --guildatech-color-red: #e93225;
+    }
